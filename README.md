@@ -33,9 +33,9 @@ To get help with an issue, you can use the ticketing system to submit a ticket. 
 </p>
 <br />
 
-<h2>Assignment and Communication</h2>
+<h2>Assignment</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1rp8qoh.png"/>
 </p>
 <p>
 The system administrator will review the tickets in the queue and then assign the appropriate user to work on it. To do this, the administrator needs to log in, select the unassigned ticket, and assign it to a user.
@@ -44,7 +44,7 @@ The system administrator will review the tickets in the queue and then assign th
 
 <h2>Working the Issue</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/akw1oxT.png"/>
 </p>
 <p>
 Once the ticket is assigned, the user can review previous edits and start working on resolving the issue.
@@ -53,17 +53,9 @@ Once the ticket is assigned, the user can review previous edits and start workin
 
 <h2>Resolution</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7INhyXW.png"/>
 </p>
 <p>
 After the issue is resolved, the agent should select "Resolved" and click "Post Reply" to close the ticket, which will then be moved to the closed tickets section.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
