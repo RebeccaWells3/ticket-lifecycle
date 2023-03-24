@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Intake Tickets</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NQhziNm.png"/>
 </p>
 <p>
 To get help with an issue, you can use the ticketing system to submit a ticket. To do this, click on "Open a new ticket" and provide your name, email address, select a topic, and give a summary of the issue.
